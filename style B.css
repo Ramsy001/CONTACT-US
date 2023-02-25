@@ -1,0 +1,13 @@
+body{
+    background-position: center;
+    background-size: cover;
+    background-image: url(tingey-injury-law-firm-veNb0DDegzE-unsplash.jpg);
+    margin: 0;
+    padding: 0;
+}
+.hi{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+}
